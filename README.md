@@ -1,3 +1,24 @@
+# Todo List Application
+
+## Overview
+
+This is a Todo List application built with React/Next.js. It allows users to add, edit, delete, and search tasks. Tasks can be marked as completed and are displayed in an expandable list format.
+
+## Features
+
+- Create Task
+- Update Task
+- Mark as Done
+- Search Tasks
+- Expandable List
+
+## Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/todo-list-app.git
+   cd todo-list-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
